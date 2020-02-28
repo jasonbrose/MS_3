@@ -1,0 +1,16 @@
+---
+title: "MS_3"
+author: "JBR"
+date: "2/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+
+```
+In this project, I connect several datasets to glean insights about the players of Game X (anonymized). The preponderance of the gamers are based in New York City, so I use NYC Open Data datasets, as well as Census information. Also, in this effort, I leverage the data I have at my disposal from various gamers. I have ZIP Code, name, and purchase information regarding the amount they spent on the game. In my examination, I hope to establish player profiles and understand their purchasing patterns to maximize revenue and also minimize abuse by players. Ultimately, the aim of this project is to to be able to understand the demographics of the players better, learn how to serve them better, and increase customer retention. 
